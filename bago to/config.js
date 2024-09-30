@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'can wee?? ill promise ill make it worth itt ',
     btnYes: 'yes',
     btnNo: 'no',
-    question: 'oh ayan nagyes ka ha saan so payag na?? HAHA hindi kana makakapagtype riyan hayaan mo na yang whyy',
+    question: 'oh ayan nagyes ka ha, so payag na??, wala ng atrasan ha,HAHA ,hindi kana makakapagtype riyan hayaan mo na yang whyy',
     btnReply: 'click this!!!',
     reply: '',
     mess: 'promise hinding hindi ka magsisi and ill take my best shot',
